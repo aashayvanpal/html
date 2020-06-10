@@ -1,0 +1,46 @@
+.header {
+  background-color: #00ffde;
+
+  text-align: center;
+  border: 1px solid black;
+  height: 60px;
+  box-shadow: 0px 4px 3px -2px;
+}
+
+#line {
+  background-color: black;
+  height: 12px;
+  width: 321px;
+  margin-left: 38%;
+  margin-top: 18px;
+}
+
+#signup {
+  margin-left: 61%;
+  padding: 10px;
+  background: #00ffde;
+  box-shadow: 3px 3px 6px 0px #79f4d3;
+}
+
+.heading {
+  text-align: center;
+}
+
+.form-box {
+  border: 1px solid black;
+  width: 40%;
+  margin-left: 30%;
+  height: 365px;
+  background-color: white;
+  box-shadow: 0px 1px 10px 1px;
+}
+
+.inputbox {
+  padding: 10px;
+  margin: 5px;
+  width: 40%;
+}
+
+body {
+  background: #8888881f;
+}
